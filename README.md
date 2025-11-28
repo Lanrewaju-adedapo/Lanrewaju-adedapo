@@ -27,19 +27,19 @@
 ---
 
 ## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,tailwind,git,figma,postman,mysql,sqlite" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lanrewaju-adedapo&layout=compact&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=lanrewaju-adedapo&show_icons=true&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanrewaju-adedapo&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,tailwind,git,figma,postman,mysql,sqlite" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lanrewaju-adedapo&layout=compact&theme=tokyonight" height="180" />
 </p>
+
