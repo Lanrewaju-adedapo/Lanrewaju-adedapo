@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" height="50%"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Adefalu Abdulrahman Adedapo</h1>
 <h3 align="center">Fullstack Developer • Lagos, Nigeria</h3>
 
