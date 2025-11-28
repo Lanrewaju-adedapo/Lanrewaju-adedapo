@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/KfwyWZtAI5oPi/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Adefalu Abdulrahman Adedapo</h1>
 <h3 align="center">Fullstack Developer • Lagos, Nigeria</h3>
 
 <p align="center">
-  🚀 Building clean, scalable, and user-focused digital experiences  
+  🚀 Building scalable, clean, and user-focused digital experiences  
   <br>
   🌐 Portfolio: <a href="https://adefaluonline.netlify.app/" target="_blank">adefaluonline.netlify.app</a>  
   <br>
@@ -35,11 +39,10 @@
 
 ## 📊 GitHub Analytics  
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lanrewaju-adedapo&layout=compact&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=lanrewaju-adedapo&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanrewaju-adedapo&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lanrewaju-adedapo&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanrewaju-adedapo&theme=tokyonight" height="180" />
 </p>
-
