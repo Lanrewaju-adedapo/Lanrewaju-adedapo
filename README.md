@@ -27,9 +27,6 @@
 ---
 
 ## 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,tailwind,git,figma,postman,mysql,sqlite" />
-</p>
 
 ---
 
@@ -41,4 +38,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanrewaju-adedapo&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,tailwind,git,figma,postman,mysql,sqlite" />
 </p>
