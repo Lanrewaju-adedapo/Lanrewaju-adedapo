@@ -16,7 +16,7 @@
   <a href="https://github.com/lanrewaju-adedapo" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/adedapo-adegbite-2b5807259" target="_blank">
+  <a href="https://linkedin.com/in/adefalu-abdulrahman-3b205a382" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:adefaluara@gmail.com">
