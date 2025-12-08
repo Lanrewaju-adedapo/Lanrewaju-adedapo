@@ -4,7 +4,7 @@
 <p align="center">
   🚀 Building scalable, clean, and user-focused digital experiences  
   <br>
-  🌐 Portfolio: <a href="https://adefaluonline.netlify.app/" target="_blank">adefaluonline.netlify.app</a>  
+  🌐 Portfolio: <a href="https://adefaluonline.vercel.app/" target="_blank">adefaluonline.netlify.app</a>  
   <br>
   📩 Email: <strong>adefaluara@gmail.com</strong>
 </p>
